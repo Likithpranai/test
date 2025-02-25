@@ -73,8 +73,6 @@ const Project1 = () => {
         counterparts.
       </p>
 
-      <img src="/mindmap.png" className="mindmap" />
-
       <hr className="header-line2" />
       <header className="header">
         <h1>Background</h1>
@@ -151,7 +149,7 @@ const Project1 = () => {
       </header>
       <div className="flex-container">
         <div className="image-center">
-          <img src="/persona.png" alt="Project Image" className="persona" />
+          <img src="/persona.png" alt="Project Image" className="persona " />
         </div>
         <div className="text-center">
           <p className="para3">
@@ -185,26 +183,32 @@ const Project1 = () => {
         <h1>Ideate</h1>
         <hr className="header-line" />
       </header>
-
-      <p className="para3">
-        We used a mind map to keep track of our thoughts during the
-        brainstorming session, where we proposed as many ideas as we could while
-        trying to think from the user perspective. We focused more on the “yes,
-        and” method rather than questioning each other excessively. Inspired by
-        "Zootopia," we even tried to go visual and considered key quantities
-        that make quality, particularly regarding navigation. For example, we
-        discussed public transport solutions like wearable mini octopus cards,
-        similar to what one might find in Zootopia, and how we could adjust
-        buses to accommodate different animal sizes. We also thought about
-        essentials like accommodation and dug deep into their basic
-        functionalities. Additionally, we explored infrastructure solutions such
-        as green areas, animal zones, and a smart campus navigation app along
-        with environmental monitoring systems. Since we were designing solutions
-        for animals, we put extra effort into ensuring that each solution was
-        simple and intuitive enough, reflecting the thoughtful design seen in
-        "Zootopia."
-      </p>
-
+      <div className="flex-container">
+        <div className="image-center">
+          <img src="/mindmap.png" alt="Project Image" className="persona " />
+        </div>
+        <div className="text-center">
+          <p className="para3">
+            We used a mind map to keep track of our thoughts during the
+            brainstorming session, where we proposed as many ideas as we could
+            while trying to think from the user perspective. We focused more on
+            the “yes, and” method rather than questioning each other
+            excessively. Inspired by "Zootopia," we even tried to go visual and
+            considered key quantities that make quality, particularly regarding
+            navigation. For example, we discussed public transport solutions
+            like wearable mini octopus cards, similar to what one might find in
+            Zootopia, and how we could adjust buses to accommodate different
+            animal sizes. We also thought about essentials like accommodation
+            and dug deep into their basic functionalities. Additionally, we
+            explored infrastructure solutions such as green areas, animal zones,
+            and a smart campus navigation app along with environmental
+            monitoring systems. Since we were designing solutions for animals,
+            we put extra effort into ensuring that each solution was simple and
+            intuitive enough, reflecting the thoughtful design seen in
+            "Zootopia."
+          </p>
+        </div>
+      </div>
       <hr className="header-line2" />
       <header className="header">
         <h1>Verify</h1>
