@@ -73,6 +73,8 @@ const Project1 = () => {
         counterparts.
       </p>
 
+      <img src="/mindmap.png" className="mindmap" />
+
       <hr className="header-line2" />
       <header className="header">
         <h1>Background</h1>
@@ -147,29 +149,36 @@ const Project1 = () => {
         <h1>Interpret</h1>
         <hr className="header-line" />
       </header>
-      <p className="para3">
-        For our solution we came up with an engaging experience focusing on its
-        immersiveness and effectiveness. We first built three personas named
-        Spara, the sparrow, Jeff, the cow and Dolphinia, the dolphine and
-        analysized their dietary preference, habitat and so on. By using this
-        method for rapid needfinding we focused on a story board and role
-        playing. Each member expressed their concerns for me since I was a
-        sparrow I talked about the need of high perches, safe nesting spots and
-        minimal reflective hazard.
-      </p>
-      <p className="para3">
-        We focused on a HTA framework that is basically hierarchical Task
-        Analysis where we took out problems to be fixed as sub goals for
-        instance habitat or abilities and divided into various types for
-        instance nocturnal, terristial, aquatic and aerial. Then we brainstormed
-        solutions like pipes and pathways for water locomotion or water tanks in
-        classrooms for aquatic creatures. We even dove into things like
-        dexterity and talked about stationary objects and amanuenses while also
-        addressing important issues like bullying among species. Plus, we
-        examined the food chain and considered safety measures such as alerts
-        and repellents. Our approach really aims to align with animal-centered
-        design principles,
-      </p>
+      <div className="flex-container">
+        <div className="image-center">
+          <img src="/persona.png" alt="Project Image" className="persona" />
+        </div>
+        <div className="text-center">
+          <p className="para3">
+            For our solution we came up with an engaging experience focusing on
+            its immersiveness and effectiveness. We first built three personas
+            named Spara, the sparrow, Jeff, the cow and Dolphinia, the dolphine
+            and analysized their dietary preference, habitat and so on. By using
+            this method for rapid needfinding we focused on a story board and
+            role playing. Each member expressed their concerns for me since I
+            was a sparrow I talked about the need of high perches, safe nesting
+            spots and minimal reflective hazard.
+          </p>
+          <p className="para3">
+            We focused on a HTA framework that is basically hierarchical Task
+            Analysis where we took out problems to be fixed as sub goals for
+            instance habitat or abilities and divided into various types for
+            instance nocturnal, terristial, aquatic and aerial. Then we
+            brainstormed solutions like pipes and pathways for water locomotion
+            or water tanks in classrooms for aquatic creatures. We even dove
+            into things like dexterity and talked about stationary objects and
+            amanuenses while also addressing important issues like bullying
+            among species. Plus, we examined the food chain and considered
+            safety measures such as alerts and repellents. Our approach really
+            aims to align with animal-centered design principles.
+          </p>
+        </div>
+      </div>
 
       <hr className="header-line2" />
       <header className="header">
