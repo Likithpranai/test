@@ -27,7 +27,7 @@ const Blog = () => {
           </div>
         </div>
 
-        <div className="project-card">
+        {/* <div className="project-card">
           <div className="modal-content">
             <h1>Lorem ipsum</h1>
             <div className="tags">
@@ -82,7 +82,7 @@ const Blog = () => {
               View Project
             </Link>
           </div>
-        </div>
+        </div> */}
       </div>
     </div>
   );
