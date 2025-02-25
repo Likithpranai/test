@@ -6,7 +6,7 @@ let timelineElements = [
     description:
       "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
     date: "Lorem ipsum dolor sit amet",
-    image: "/background.png",
+    image: "/background.JPG",
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ let timelineElements = [
     description:
       "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
     date: "Lorem ipsum dolor sit amet",
-    image: "/background.png",
+    image: "/background.JPG",
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ let timelineElements = [
     description:
       "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga.",
     date: "Lorem ipsum dolor sit amet",
-    image: "/background.png",
+    image: "/background.JPG",
   },
   {
     id: 4,
@@ -32,7 +32,7 @@ let timelineElements = [
     location: "lorem ipsom ",
     description: "lorem ipsom ",
     date: "2020 - present",
-    image: "/background.png",
+    image: "/background.JPG",
   },
   {
     id: 5,
@@ -40,7 +40,7 @@ let timelineElements = [
     location: "lorem ipsom ",
     description: "lorem ipsom ",
     date: "2020 - present",
-    image: "/background.png",
+    image: "/background.JPG",
   },
 ];
 
