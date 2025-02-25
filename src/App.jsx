@@ -9,7 +9,7 @@ import Competitions from "./components/competitions/competition";
 import Skills from "./components/skills/Skills";
 import Projects from "./components/project_section/project";
 import Blog from "./components/blog/blog";
-import Project1 from "./components/project1/Project1";
+import Project1 from "./components/project1/Project0";
 import Project2 from "./components/project2/Project2";
 import Project3 from "./components/project3/Project3";
 import Project4 from "./components/project4/Project4";
