@@ -2,13 +2,13 @@
   font-family: sans-serif;
   color: #fff;
   background-color: black;
-  background-image: "./animalBackground.png";
+  background-image: "/animalBackground.png";
   min-height: 100vh;
   display: flex;
   flex-direction: column;
 }
 .first-project-card {
-  background-image: url("./animalBackground4.png");
+  background-image: url("/animalBackground4.png");
   background-size: cover;
   background-position: center;
 }
